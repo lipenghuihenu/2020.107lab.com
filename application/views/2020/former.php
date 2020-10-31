@@ -71,7 +71,7 @@
           <div class="carousel-item active" style="background-image: url('img/intro-carousel/1.jpg');">
             <div class="carousel-container">
               <div class="carousel-content">
-                <h2 style="font-size: 60px;">Welcome To 107Lab</h2>
+                <h2 style="font-size: 60px;">Wellcome To 107Lab</h2>
                 <p style="font-size: 40px;">欢迎访问107网站工作室</p>
                 <a href="#featured-services" class="btn-get-started scrollto">Get Started</a>
               </div>
