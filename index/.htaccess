@@ -1,0 +1,13 @@
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+RewriteCond $1 !^(index\.php|images|robots\.txt)
+RewriteRule ^(.*)$ index.php/$1 [L]
+
+RewriteCond %{REQUEST_URI} ^/$ [NC]
+RewriteCond %{HTTP_HOST} ^cs.henu.edu.cn [NC]
+RewriteRule ^(.*) http://cs.henu.edu.cn/[R=301,L]
+
+RewriteCond %{REQUEST_METHOD} ^TRACE
+RewriteRule .* - [F]
