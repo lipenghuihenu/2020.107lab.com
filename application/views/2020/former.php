@@ -169,7 +169,7 @@
               </div>
               <h2 class="title"><a href="#">Our Workspace</a></h2>
               <p>
-                  目前实验室为202学生自主创新实验室（学院201实验室对面）。 设备是一个计算机专业的人最关心的问题，好的设备，能让我们在日常编程的过程中得心应手，才能让我们过关斩将。 本实验室网络为学校IPv6试点不受GFW限制，学习或开发过程中可直接访问Google、WIKI等进行查疑解难。每个人都配有新电脑。电脑 CPU ：Inter Core i5-4590 3.30GHz，4GB内存，1T硬盘。实验室内有两台空调，所以同学们完全不用担心冬天冷，夏天热的问题。 因为实验室受到学院高度重视，每年都会引进一些新设备。
+                  目前实验室为202学生自主创新实验室（学院201实验室对面）。 设备是一个计算机专业的人最关心的问题，好的设备，能让我们在日常编程的过程中得心应手，才能让我们过关斩将。 每个人都配有新电脑。电脑 CPU ：Inter Core i5-4590 3.30GHz，4GB内存，1T硬盘。实验室内有两台空调，所以同学们完全不用担心冬天冷，夏天热的问题。 因为实验室受到学院高度重视，每年都会引进一些新设备。
               </p>
             </div>
           </div>
@@ -187,7 +187,7 @@
 
         <header class="section-header wow fadeInUp">
           <h3>Services</h3>
-          <p>注：本实验室所提供服务均为有偿服务。联系方式：15639005663</p>
+          <p>注：本实验室所提供服务均为有偿服务。联系方式：18236568622</p>
         </header>
 
         <div class="row">
@@ -291,27 +291,27 @@
 
         <div class="row counters">
 
-  				<div class="col-lg-3 col-6 text-center">
+          <div class="col-lg-3 col-6 text-center">
             <span data-toggle="counter-up">16</span>
             <p>Historical years</p>
-  				</div>
+          </div>
 
           <div class="col-lg-3 col-6 text-center">
             <span data-toggle="counter-up">32</span>
             <p>Team members</p>
-  				</div>
+          </div>
 
           <div class="col-lg-3 col-6 text-center">
             <span data-toggle="counter-up">72</span>
             <p>Projects completed</p>
-  				</div>
+          </div>
 
           <div class="col-lg-3 col-6 text-center">
             <span data-toggle="counter-up">32</span>
             <p>Client</p>
-  				</div>
+          </div>
 
-  			</div>
+        </div>
       </div>
     </section><!-- #facts -->
 
@@ -491,15 +491,21 @@
           </div>
 
           <div class="testimonial-item">
-            <img src="images/liuzihan.jpg" class="testimonial-img" alt="">
-            <h3>刘子涵</h3>
+            <img src="images/lipenghui.jpg" class="testimonial-img" alt="">
+            <h3>李鹏辉</h3>
             <h4>计算机与信息工程学院学生</h4>
 
           </div>
 
           <div class="testimonial-item">
-            <img src="images/zhaoshishun.jpg" class="testimonial-img" alt="">
-            <h3>赵士顺</h3>
+            <img src="images/wangyunlong.jpg" class="testimonial-img" alt="">
+            <h3>王云龙</h3>
+            <h4>计算机与信息工程学院学生</h4>
+          </div>
+
+          <div class="testimonial-item">
+            <img src="images/weiyuexin.jpg" class="testimonial-img" alt="">
+            <h3>韦月鑫</h3>
             <h4>计算机与信息工程学院学生</h4>
           </div>
         </div>
@@ -639,14 +645,14 @@
             <div class="contact-phone">
               <i class="fa fa-phone"></i>
               <h3>Phone Number</h3>
-              <p><a href="tel:15639005663">15639005663</a></p>
+              <p><a href="tel:18236568622">18236568622</a></p>
             </div>
           </div>
           <div class="col-md-3">
             <div class="contact-wechat">
               <i class="fa fa-wechat"></i>
               <h3>wechat</h3>
-              <p>l15239089632</a></p>
+              <p>Q493284461</a></p>
             </div>
           </div>
 
@@ -654,16 +660,16 @@
             <div class="contact-qq">
                 <i class="fa fa-qq"></i>
                 <h3>QQ</h3>
-                <p><a href="qq:3276255282">3276255282</a></p>
+                <p><a href="qq:493284461">493284461</a></p>
             </div>
         </div>
         </div>
 
         <div class="form">
-            <h4 style="margin: 0 auto 20px;width: 280px;">QQ招新群：1070428215</h4>
+            <h4 style="margin: 0 auto 20px;width: 280px;">QQ招新群：869777994</h4>
           <div id="sendmessage">报名成功！</div>
           <div id="errormessage"></div>
-          <form action="" method="post" role="form" class="contactForm" style="display:none;" >
+          <form action="" method="post" role="form" class="contactForm" style="" >
             <div class="form-row">
               <div class="form-group col-md-6">
                 <input type="text" name="name" class="form-control" id="name" placeholder="姓名" data-rule="minlen:2" data-msg="请输入正确姓名" />
@@ -681,7 +687,7 @@
                   <div class="validation"></div>
               </div>
                 <div class="form-group col-md-6">
-                  <input type="text" class="form-control" name="class" id="subject" placeholder="班级 例：19-1" data-rule="minlen:4" data-msg="请输入正确的所在班级" />
+                  <input type="text" class="form-control" name="class" id="subject" placeholder="班级 例：20-1" data-rule="minlen:4" data-msg="请输入正确的所在班级" />
                   <div class="validation"></div>
                 </div>
 
