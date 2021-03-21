@@ -665,7 +665,7 @@
         </div>
         </div>
 
-        <div class="form">
+        <!-- <div class="form">
             <h4 style="margin: 0 auto 20px;width: 280px;">QQ招新群：869777994</h4>
           <div id="sendmessage">报名成功！</div>
           <div id="errormessage"></div>
@@ -681,7 +681,7 @@
               </div>
             </div>
             <div class="form-row">
-
+        
               <div class="form-group col-md-6">
                   <input type="text" class="form-control" name="phone" id="phone" placeholder="手机号码" data-rule="phone" data-msg="请输入正确的手机号码" />
                   <div class="validation"></div>
@@ -690,7 +690,7 @@
                   <input type="text" class="form-control" name="class" id="subject" placeholder="班级 例：20-1" data-rule="minlen:4" data-msg="请输入正确的所在班级" />
                   <div class="validation"></div>
                 </div>
-
+        
             </div>
             <div class="form-group">
               <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="请介绍一下你自己" placeholder="介绍一下你自己吧...."></textarea>
@@ -698,7 +698,7 @@
             </div>
             <div class="text-center"><button type="submit">提交报名</button></div>
           </form>
-        </div>
+        </div> -->
 
       </div>
     </section><!-- #contact -->
