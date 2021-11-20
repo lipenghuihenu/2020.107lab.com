@@ -652,7 +652,7 @@
             <div class="contact-wechat">
               <i class="fa fa-wechat"></i>
               <h3>wechat</h3>
-              <p>Q493284461</a></p>
+              <p>18236568622</a></p>
             </div>
           </div>
 
